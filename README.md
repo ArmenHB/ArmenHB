@@ -1,4 +1,7 @@
-### Hi there 👋 my anme is armen
+### Hi there 👋 my name is Armen
+
+I am a third-year student at UBC, working on a double major in Computer Science and internatuinal relations.
+International Relations. I specialize in sustainability and developmental economics, as well as software development.
 
 <!--
 **ArmenHB/ArmenHB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
