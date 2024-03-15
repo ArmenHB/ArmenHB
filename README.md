@@ -1,4 +1,4 @@
-### Hi there 👋 my name is Armen, or perhaps Henry, depending on who asks
+### Hi there 👋 my name is Armen Henry Bagdasarov
 
 I am a third-year student at UBC, working on a double major in Computer Science and International Relations. I specialize in sustainability and developmental economics, as well as software development.
 
