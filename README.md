@@ -1,6 +1,12 @@
-### Hi there 👋 my name is Armen Henry Bagdasarov
+### Hi there 👋 I'm Armen Henry Bagdasarov
 
-I am a fourth-year student at UBC, working on a double major in Computer Science and International Relations. I am passionate about environmental and cybersecurity compliance. Most recently, I have spent a summer working with BC Hydro as a Cybersecurity compliance analyst.
+I'm a Computer Science and International Relations student at the University of British Columbia, interested in the intersection of software engineering, cybersecurity, and governance.
+
+I have experience in both cybersecurity compliance and security-focused software development, having worked at BC Hydro as a Cybersecurity Compliance Analyst and at Absolute Security as an Associate Software Developer Co-op. My work has ranged from audit-facing compliance frameworks and critical infrastructure documentation to build system modernization, CI/CD improvements, and software package migrations.
+
+I'm especially interested in cybersecurity, endpoint security, regulatory compliance, and building reliable systems that support real-world security outcomes.
+
+Outside of work and school, I enjoy music production, learning about security research, and exploring how technology shapes public policy.
 <!--
 **ArmenHB/ArmenHB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
